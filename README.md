@@ -7,7 +7,7 @@
 
 A modern, highly-responsive **Tax Loss Harvesting** web application built for the KoinX Frontend Developer Internship Assignment. This dashboard simulates selling crypto assets currently trading at a loss to offset capital gains tax liabilities, showcasing real-time calculations, dark/light theme options, and custom interactive components.
 
-🎯 **Live Demo**: [vercel-deployment-link-placeholder](https://vercel.com/)
+🎯 **Live Demo**: [deployment-link](https://koin-x-tax-loss-harvesting-app-48wm.vercel.app/)
 
 ---
 

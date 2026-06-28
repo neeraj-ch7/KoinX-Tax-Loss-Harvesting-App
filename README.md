@@ -13,7 +13,7 @@ A modern, highly-responsive **Tax Loss Harvesting** web application built for th
 
 ## 📸 Preview & Aesthetics
 
-![Dashboard Screenshot Placeholder](https://raw.githubusercontent.com/neeraj-ch7/KoinX-Tax-Loss-Harvesting-App/main/public/preview-placeholder.png)
+![Dashboard Screenshot Placeholder](https://github.com/neeraj-ch7/KoinX-Tax-Loss-Harvesting-App/blob/main/Screenshot%202026-06-28%20184754.png)
 
 ---
 
